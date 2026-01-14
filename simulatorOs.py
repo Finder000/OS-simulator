@@ -3,7 +3,6 @@ try:
     import time
     import os
     import random
-    import threading
 
     save_file = 'save.json'
     score = 0
